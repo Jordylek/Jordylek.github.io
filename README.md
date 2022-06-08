@@ -11,5 +11,5 @@ Office: Evans 393
 ### Talks
 Bloomberg Lightning Talk: July 2020
 
-### Papers (past and upcoming)
+<!-- ### Publications and Preprints -->
 
