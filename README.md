@@ -9,7 +9,7 @@ Email: firstname dot lastname @ berkeley dot edu
 Office: Evans 393
 
 ### Talks
-Bloomberg Lightning Talk: July 2020
+[Bloomberg Quant(BBQ) seminar series](https://www.bloomberg.com/professional/quant-seminar-series/), lightning talk: July 2020
 
 <!-- ### Publications and Preprints -->
 
