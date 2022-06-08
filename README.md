@@ -6,6 +6,7 @@ I interned in the quantitative research team at [Bloomberg LP](https://www.bloom
 
 ### Contact
 Email: firstname dot lastname @ berkeley dot edu
+
 Office: Evans 393
 
 ### Talks
