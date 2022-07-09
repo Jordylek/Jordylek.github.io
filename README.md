@@ -12,5 +12,10 @@ Office: Evans 393
 ### Talks
 [Bloomberg Quant(BBQ) seminar series](https://www.bloomberg.com/professional/quant-seminar-series/), lightning talk: July 2020
 
+### Publications
+VIX is (mostly) Path-Dependent, J. Guyon and J. Lekeufack, 2022
 <!-- ### Publications and Preprints -->
 
+### Awards
+Bloomberg Quantitative Finace PhD Fellowship, Spring 2022
+Finalist for the Two-Sigma PhD Diversity Fellowship, 2022
