@@ -13,7 +13,7 @@ Office: Evans 393
 * [Bloomberg Quant(BBQ) seminar series](https://www.bloomberg.com/professional/quant-seminar-series/), lightning talk: July 2020
 
 ### Publications
-* [VIX is (mostly) Path-Dependent, J. Guyon and J. Lekeufack, 2022](http://ssrn.com/abstract=4174589)
+* [Volatility is (mostly) Path-Dependent, J. Guyon and J. Lekeufack, 2022](http://ssrn.com/abstract=4174589)
 <!-- ### Publications and Preprints -->
 
 ### Awards
