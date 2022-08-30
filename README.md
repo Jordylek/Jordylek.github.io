@@ -10,7 +10,7 @@ Email: firstname dot lastname @ berkeley dot edu
 Office: Evans 393
 
 ### Talks
-* [Bloomberg Quant(BBQ) seminar series](https://www.bloomberg.com/professional/quant-seminar-series/), lightning talk: July 2020
+* [Bloomberg Quant (BBQ) seminar series](https://www.bloomberg.com/professional/quant-seminar-series/), lightning talk: July 2020
 
 ### Publications
 * [Volatility is (mostly) Path-Dependent, J. Guyon and J. Lekeufack, 2022](http://ssrn.com/abstract=4174589)
@@ -19,6 +19,11 @@ Office: Evans 393
 ### Awards
 * Bloomberg Quantitative Finace PhD Fellowship, Spring 2022
 * Finalist for the Two-Sigma PhD Diversity Fellowship, 2022
+
+### Teaching
+I was TA for the following classes at UC Berkeley
+* Fall 2021, STAT 134: Concepts of Probability
+* Fall 2022, STAT 201B: Introduction to Statistics at an Advanced level
 
 ### Hobbies
 I am passionate of dance, African culture and African History. I dance and teach Kizomba and UrbanKiz. I also love food and music.
