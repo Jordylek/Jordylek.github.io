@@ -4,6 +4,9 @@ I am a third year PhD student in Statistics at [UC Berkeley](https://statistics.
 
 I am grateful to have been a [Bloomberg Quant Fellow](https://www.bloomberg.com/company/values/tech-at-bloomberg/quantitative-finance-phd-fellowship/) in Spring 2022.
 
+You can find my resume [here](/docs/assets/resume.pdf)
+
+
 ### Contact
 Email: firstname dot lastname @ berkeley dot edu
 
