@@ -26,7 +26,7 @@ Office: Evans 393
 * Bloomberg Quantitative Finace PhD Fellowship, Spring 2022
 * Finalist for the Two-Sigma PhD Diversity Fellowship, 2022
 
-## Internships
+### Internships
 * Voleon, Quantitative Researcher, summer 2024
 * Pinterest, ML Engineer, summer 2023
 * Bloomberg LP, Quantitative Researcher, summer 2020 and 2022
