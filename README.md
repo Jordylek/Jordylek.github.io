@@ -13,13 +13,14 @@ Email: firstname dot lastname @ berkeley dot edu
 Office: Evans 393
 
 ### Talks
-* [SIAM Conference on Financial Mathematics and Engineering](https://siam.org/conferences/cm/conference/fm23), June 2023
-* [Consortium for Data Analytics in Risk Seminar](https://cdar.berkeley.edu/seminars/fall-2023), May 2023
-* [Bloomberg Quant (BBQ) seminar series](https://www.bloomberg.com/professional/quant-seminar-series/), lightning talk: July 2020
+* [SIAM Conference on Financial Mathematics and Engineering](https://siam.org/conferences/cm/conference/fm23), June 2023.
+* [Consortium for Data Analytics in Risk Seminar](https://cdar.berkeley.edu/seminars/fall-2023), May 2023.
+* [Bloomberg Quant (BBQ) seminar series](https://www.bloomberg.com/professional/quant-seminar-series/), lightning talk: July 2020.
 
 ### Publications
-* [Conformal Decision Theory: Safe Autonomous Decisions from Imperfect Predictions](http://arxiv.org/abs/2310.05921), J. Lekeufack, A. N. Angelopoulos, A. Bajscy, M. Jordan, J. Malik, 2023.
-* [Volatility is (mostly) Path-Dependent](http://ssrn.com/abstract=4174589), J. Guyon and J. Lekeufack, 2022.
+* [An Optimistic Algorithm for Online Convex Optimization with Adversarial Constraints](https://arxiv.org/abs/2412.08060), J. Lekeufack, M. Jordan, preprint, 2024.
+* [Conformal Decision Theory: Safe Autonomous Decisions from Imperfect Predictions](http://arxiv.org/abs/2310.05921), J. Lekeufack, A. N. Angelopoulos, A. Bajscy, M. Jordan and J. Malik, ICRA 2024.
+* [Volatility is (mostly) Path-Dependent](http://ssrn.com/abstract=4174589), J. Guyon and J. Lekeufack, Quantitative Finance Vol. 23, 2023.
 <!-- ### Publications and Preprints -->
 
 ### Awards
@@ -37,4 +38,4 @@ I was TA for the following classes at UC Berkeley
 * Fall 2022, STAT 201B: Introduction to Statistics at an Advanced level
 
 ### Hobbies
-I am passionate of dance, African culture and African History. I dance and teach Kizomba and UrbanKiz. I also love food and music.
+I am passionate of dance, African culture and African History. I dance and teach Kizomba and UrbanKiz.
