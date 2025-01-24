@@ -1,10 +1,10 @@
 <!-- # Jordan Lekeufack -->
 <!-- ![Profile picture](/docs/assets/images/git_profile.jpg) -->
-I am a third year PhD student in Statistics at [UC Berkeley](https://statistics.berkeley.edu/). I am fortunate to be advised by [Prof. Michael I. Jordan](http://people.eecs.berkeley.edu/~jordan/). My research interests include uncertainty prediction and decision-making, theoretical machine learning and games. Prior to Berkeley, I completed a B.S/M.Sc. at [Ecole Polytechnique, Paris](https://programmes.polytechnique.edu/en/ingenieur-polytechnicien-program/ingenieur-polytechnicien-program).
+I am a fifth year PhD student in Statistics at [UC Berkeley](https://statistics.berkeley.edu/). I am fortunate to be advised by [Prof. Michael I. Jordan](http://people.eecs.berkeley.edu/~jordan/). My research interests include uncertainty prediction and decision-making, theoretical machine learning and games. Prior to Berkeley, I completed a B.S/M.Sc. at [Ecole Polytechnique, Paris](https://programmes.polytechnique.edu/en/ingenieur-polytechnicien-program/ingenieur-polytechnicien-program).
 
 I am grateful to have been a [Bloomberg Quant Fellow](https://www.bloomberg.com/company/values/tech-at-bloomberg/quantitative-finance-phd-fellowship/) in Spring 2022.
 
-You can find my resume [here](/docs/assets/resume.pdf)
+You can find my resume [here](/docs/assets/resume.pdf).
 
 
 ### Contact
@@ -24,18 +24,18 @@ Office: Evans 393
 <!-- ### Publications and Preprints -->
 
 ### Awards
-* Bloomberg Quantitative Finace PhD Fellowship, Spring 2022
-* Finalist for the Two-Sigma PhD Diversity Fellowship, 2022
+* Bloomberg Quantitative Finace PhD Fellowship, Spring 2022.
+* Finalist for the Two-Sigma PhD Diversity Fellowship, 2022.
 
 ### Internships
-* Voleon, Quantitative Researcher, summer 2024
-* Pinterest, ML Engineer, summer 2023
-* Bloomberg LP, Quantitative Researcher, summer 2020 and 2022
+* Voleon, Quantitative Researcher, summer 2024.
+* Pinterest, ML Engineer, summer 2023.
+* Bloomberg LP, Quantitative Researcher, summer 2020 and 2022.
 
 ### Teaching
 I was TA for the following classes at UC Berkeley
-* Fall 2021, STAT 134: Concepts of Probability
 * Fall 2022, STAT 201B: Introduction to Statistics at an Advanced level
+* Fall 2021, STAT 134: Concepts of Probability
 
 ### Hobbies
 I am passionate of dance, African culture and African History. I dance and teach Kizomba and UrbanKiz.
